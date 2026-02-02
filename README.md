@@ -1,2 +1,5 @@
-# C-language
-Coding
+#include<stdio.h>
+int main() 
+{
+printf("hii") ;
+}
